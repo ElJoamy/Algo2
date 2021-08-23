@@ -1,0 +1,3 @@
+En el mundo de la informática, el BIT, cuyas siglas significan: Binary Indexed Tree; también conocido como Árbol de Fenwick; es una estructura de datos la cual es capaz de almacenar, calcular y actualizar sumas de prefijos de manera muy eficiente. La manera en la que opera, es utilizando directamente conceptos del sistema de numeración binario (ej. Bit menos significativo).
+
+La mayor ventaja del BIT, es su capacidad de realizar todas sus operaciones en un tiempo de complejidad O(logn), además de utilizar muy poca memoria en su código, el cual es muy fácil de implementar, pero muy dificil de poder comprender.
