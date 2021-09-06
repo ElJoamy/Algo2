@@ -1,0 +1,1 @@
+La manera en la que funciona Edmonds Karp es utilizando el famoso algoritmo de BFS, el cual ayuda a poder encontrar el cámino con menos aristas, para luego obtener el peso mínimo de ese camino y usarlo para el flujo máximo, claro que a esto se le conoce como camino aumentante, ahora bien la complejidad del algoritmo de Edmonds Karp es de: O(nm^2).
