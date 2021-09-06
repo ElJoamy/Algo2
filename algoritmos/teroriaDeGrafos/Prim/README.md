@@ -1,0 +1,1 @@
+Aunque tiene algo de similar al kruskal el algoritmo de Prim utiliza otro algoritmo para poder trabajar, basicamente este algoritmo es conocido como el algoritmo de Dijkstra. Prim utiliza Dijkstra, ya que es necesario para poder encontrar la distancia mínima local entre dos vértices, claro que la complejidad del algoritmo de Prim es de O(mlogn).
