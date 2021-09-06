@@ -1,0 +1,1 @@
+El algoritmo de Kruskal es greedy y por ende utiliza otro algoritmo para poder funcionar, el algoritmo conocido como: Union Find; el cual ayuda a poder detectar y eliminar ciclos, los cuales están prohibidos en los árboles, claro que la complejidad del algoritmo de Kruskal es de O(mlogn).
